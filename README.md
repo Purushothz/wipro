@@ -1,0 +1,2 @@
+# wipro
+nse details 
